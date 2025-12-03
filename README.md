@@ -97,3 +97,34 @@ jadwal_idol/
 ---
 
 # Dokumentasi
+<<<<<<< HEAD
+=======
+
+## Tampilan Awal Agensi
+
+<img width="1366" height="720" alt="1  Tampilan Awal Agensi" src="https://github.com/user-attachments/assets/22e7d7b6-0f3e-4593-bdc7-bf4419f3a848" />
+
+
+## Tampilan Awal Idol
+
+<img width="1366" height="777" alt="2  Tampilan Awal Idol" src="https://github.com/user-attachments/assets/ada1860b-6185-41bc-88e0-7d428f432c6c" />
+
+
+## Tampilan Awal Event
+
+<img width="1366" height="720" alt="3  Tampilan Awal Event" src="https://github.com/user-attachments/assets/ffaf098a-0520-4a45-99a9-fab5b0105936" />
+
+
+## Tampilan Awal Jadwal
+
+<img width="1366" height="720" alt="4  Tampilan Awal Jadwal" src="https://github.com/user-attachments/assets/25cae3b3-a40e-4956-9cea-87a5192e9a18" />
+
+
+## Full Implementasi CRUD
+
+
+https://github.com/user-attachments/assets/7b4d66b7-b153-4e63-9f12-a784831eeed1
+
+
+
+>>>>>>> 11580f9ac0a209166ade4016f9e0da3a2ee789cd
