@@ -100,7 +100,7 @@ jadwal_idol/
 
 ## Tampilan Awal Agensi
 
-<img width="1366" height="720" alt="1  Tampilan Awal Agensi" src="https://github.com/user-attachments/assets/461e7b92-60e1-4f04-82bb-b34218f35588" />
+<img width="1366" height="720" alt="1  Tampilan Awal Agensi" src="https://github.com/user-attachments/assets/22e7d7b6-0f3e-4593-bdc7-bf4419f3a848" />
 
 
 ## Tampilan Awal Idol
